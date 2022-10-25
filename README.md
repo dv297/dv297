@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey, I'm Daniel Vu!  👋
 
-<!--
-**dv297/dv297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based out of Kansas City. I primarily focus on web dev, with experience across React and VueJS.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Planner](https://github.com/dv297/planner), a tool to help you break down and plan new 
+  software projects. 
+- ✨ The technologies I typically work with include...
+  - TypeScript
+  - NodeJS
+  - React
+  - Vue
+  - NextJS
+  - GraphQL
+  - Prisma
+  - PostgreSQL
+  - Jest
+  - Cypress
+  - TailwindCSS
+  - ... with some experience with other technologies like Java, Ruby on Rails, React Native, etc.
+- 📚 I'm well versed in Agile methodologies and I enjoy collaborating and mentoring my peers.
+- ⭐ I'm always open to discussing new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="500" src="screenshots/Sizzy-MacBook Air localhost 17Oct 17.16.png" width="921"/>
